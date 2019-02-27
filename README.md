@@ -1,2 +1,0 @@
-# kseniya
-just my repository
