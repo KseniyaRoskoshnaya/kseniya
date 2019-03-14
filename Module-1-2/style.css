@@ -1,0 +1,46 @@
+body {
+    font-size: 25px;
+    font-family: Arial, sans-serif
+}
+
+h3 {
+    color: #1a1554; 
+    margin: 40px;
+}
+
+.firstletter {
+    color: #2c229e;
+}
+
+h4 {
+    color:  #1a1554;  
+    text-align: left;
+    margin: 40px;
+    padding-top: 30px;
+}
+.list li p {
+    font-size: 19px;
+    width: 60%;
+}
+em {
+    font-size: 22px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.article {
+    width: 70%;
+    font-size: 19px;
+} 
+
+.order-list {
+    width: 40%;
+    border: 1px outset #bdc2cc;
+    font-size: 20px;
+}
+
+.link {
+    font-size: 18px;
+}
